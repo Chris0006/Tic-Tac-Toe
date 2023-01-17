@@ -1,0 +1,65 @@
+body {
+    background-color: #2B3467;
+}
+
+.main {
+    margin-top: 9%;
+    text-align: center;
+}
+
+
+
+button {
+    color: transparent;
+    font-family: 'Merriweather', serif;
+    font-size: 350%;
+}
+
+
+
+
+
+.gamearea {
+    width: 150px;
+    height: 150px;
+    background-color: #2B3467;
+
+    border-style: solid;
+
+    /* border-color: red; */
+    border-bottom: solid red; 
+    border-left: solid red;
+
+    border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
